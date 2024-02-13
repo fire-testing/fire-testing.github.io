@@ -27,7 +27,7 @@
             var code = getQueryString("code");
             $.ajax({
                 type: "GET",
-                url: "../SQLTestHandler.ashx",
+                url: "./SQLTestHandler.ashx",
                 data: { "type": "bgcx_rqcode", keyid: keyid, code: code },
                 dataType: "JSON",
                 success: function (result) {
