@@ -326,7 +326,7 @@
     "是否中心人员受理Name": "是",
     "SpitKindCN": null,
     "backRemark": null,
-    "SynConclusion": "经检验，该金属面双玻岩棉净化板隔墙在墙厚50mm时耐火性能为120min。\n    （以下空白）",
+    "SynConclusion": "经检验，该金属面双玻岩棉净化板隔墙在墙厚100mm时耐火性能为120min。\n    （以下空白）",
     "PiZhunDate": "2022-03-17",
     "IssuedDate": "2022-03-17 "
   }
